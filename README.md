@@ -19,6 +19,8 @@ In each experiment folder you will find the Arduino and/or Python code, a wiring
 All this robotics and electronics stuff may sound complicated but, believe me, it isnt hard to learn. This is a list of resources to help you get started:<br>
 https://github.com/vbookshelf/Robotics-Resources-for-Beginners
 
+<br>
+
 ## Experiments
 
 Exp01 - Move forward in a straight line<br>
