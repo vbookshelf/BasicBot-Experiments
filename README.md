@@ -4,7 +4,7 @@ This repo contains my experiments  with Serenity - a simple homemade robot.
 In each experiment folder you will find the Arduino and/or Python code, a wiring diagram and other relevant files. Each folder also has a readme with a short writeup.
 
 <br>
-<img src="https://github.com/vbookshelf/BasicBot-Experiments/blob/main/images/robot-views.png" width="700"></img>
+<img src="https://github.com/vbookshelf/Serenity-Robotics-Experiments/blob/main/images/robot-views.png" width="700"></img>
 <br>
 
 ### Key Features of Serenity
