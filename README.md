@@ -23,7 +23,7 @@ https://github.com/vbookshelf/Robotics-Resources-for-Beginners
 
 ## Experiments
 
-Exp01 - Move forward in a straight line<br>
+- Exp01 - Move forward in a straight line<br>
 https://github.com/vbookshelf/Serenity7-Robotics-Experiments/tree/main/Exp01-move-forward-in-a-straight-line
 
 
