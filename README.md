@@ -14,6 +14,11 @@ In each experiment folder you will find the Arduino and/or Python code, a wiring
 3- Jumper cables used and breadboard attached to allow for easy connections.<br>
 4- Two motors instead of four so the batteries last longer.<br>
 
+### Robotics Resources
+
+All this robotics and electronics stuff may sound complicated but, believe me, it isnt hard to learn. This is a list of resources to help you get started:<br>
+https://github.com/vbookshelf/Robotics-Resources-for-Beginners
+
 ## Experiments
 
 In progress...
