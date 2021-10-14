@@ -12,7 +12,7 @@ In each experiment folder you will find the Arduino and/or Python code, a wiring
 1- Large base area (297mm x 210mm x 3mm thick MDF) to allow enough space for sensors, a micro-controller, a single-board computer, a camera and other parts to be easily installed and moved around.<br>
 2- Hardware is not screwed down to allow for easy removal or re-positioning. The motors and castor wheel are attached with double sided tape. The electronics are attached to the base with Prestick.<br>
 3- Jumper cables used and breadboard attached to allow for easy connections.<br>
-4- Two motors instead of 4 so the batteries last longer.<br>
+4- Two motors instead of four so the batteries last longer.<br>
 
 ## Experiments
 
