@@ -33,6 +33,14 @@ Note that this tightening may need to be repeated each time a male connector is 
 
 ## Reference Resources
 
+Digital Electronics: Robotics, learn by building module II<br>
+Lesson 44 - Using PWM and an H-bridge<br>
+https://www.udemy.com/course/digital-electronics-robotics-learn-by-building-module-ii/learn/lecture/7031128#overview<br>
+
+Digital Electronics: Robotics, learn by building module II<br>
+Lesson 60 - Programming and calibrating movements on our mobile robot<br>
+https://www.udemy.com/course/digital-electronics-robotics-learn-by-building-module-ii/learn/lecture/13524884#overview<br>
+
 How to keep (female) jumper wires tight<br>
 https://forum.pololu.com/t/how-to-keep-jumper-wires-tight/4565/2<br>
 
