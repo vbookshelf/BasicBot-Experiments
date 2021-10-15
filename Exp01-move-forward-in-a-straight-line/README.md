@@ -23,13 +23,13 @@ One way to fix this is to increase or reduce the speed of each wheel separately.
 
 1- Straight line movement is a robot behaviour that needs to be tuned. Tuning means that you try different values until things work the way you want.
 
-2- Female connections on jumper wires are unreliable. The connection is often loose. This means that sometimes the circuit works and sometimes it doesn't. I found that the same thing happens with the female connections on hobby servo motors. The solution, for jumper cables, is to remove the black casing and tighten the connection as show in this article:<br>
+2- Female connections on jumper wires are unreliable. The connection is often loose. This means that sometimes the circuit works and sometimes it doesn't. I found that the same thing happens with the female connections on hobby servo motors. The solution, for jumper wires, is to remove the black casing and tighten the connection as show in this article:<br>
 https://forum.pololu.com/t/how-to-keep-jumper-wires-tight/4565/2<br>
 Note that this tightening may need to be repeated each time a male connector is inserted and removed.<br>
 
 <br>
 <img src="https://github.com/vbookshelf/Serenity-Robotics-Experiments/blob/main/images/female-connector.jpg" width="300"></img>
-<i>Jumper cable with female connectors and a servo motor connector</i><br>
+<i>Jumper wire with female connectors and a servo motor connector</i><br>
 <br>
 
 3- This robot needs a strong power supply. If the supply is too weak the LEDs may be on but the motors will not be turning. I found that a 6V supply is not enough. I used 10.8V.<br>
