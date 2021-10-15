@@ -12,7 +12,7 @@ Use PWM (Pulse Width Modulation) to vary the speed of each wheel so that the rob
 The robot drifted to the left when moving forward. This could have been caused by:<br>
 
 1- The motors and gears are not identical and therefore turn at different speeds,<br>
-2- The castor wheel<br>
+2- The movement of the castor wheel<br>
 3- Wheels that are not identical,<br>
 4- other factors
 
@@ -26,6 +26,11 @@ One way to fix this is to increase or reduce the speed of each wheel separately.
 2- Female connections on jumper cables are unreliable. The connection is often loose. This means that sometimes the circuit works and sometimes it doesn't. I found that the same thing happens with the female connections on hobby servo motors. The solution, for jumper cables, is to remove the black casing and tighten the connection as show in this article:<br>
 https://forum.pololu.com/t/how-to-keep-jumper-wires-tight/4565/2<br>
 Note that this tightening may need to be repeated each time a male connector is inserted and removed.<br>
+
+<br>
+<img src="https://github.com/vbookshelf/Serenity-Robotics-Experiments/blob/main/images/female-connector.jpg" width="300"></img>
+<i>Jumper cable with female connectors and a servo motor connector</i><br>
+<br>
 
 3- This robot needs a strong power supply. If the supply is too weak the LEDs may be on but the motors will not be turning. I found that a 6V supply is not enough. I used 10.8V.<br>
 
