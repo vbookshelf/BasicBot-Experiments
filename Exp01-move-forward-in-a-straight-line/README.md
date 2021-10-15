@@ -23,7 +23,7 @@ One way to fix this is to increase or reduce the speed of each wheel separately.
 
 1- Straight line movement is a robot behaviour that needs to be tuned. Tuning means that you try different values until things work the way you want.
 
-2- Female connections on jumper cables are unreliable. The connection is often loose. This means that sometimes the circuit works and sometimes it doesn't. I found that the same thing happens with the female connections on hobby servo motors. The solution, for jumper cables, is to remove the black casing and tighten the connection as show in this article:<br>
+2- Female connections on jumper wires are unreliable. The connection is often loose. This means that sometimes the circuit works and sometimes it doesn't. I found that the same thing happens with the female connections on hobby servo motors. The solution, for jumper cables, is to remove the black casing and tighten the connection as show in this article:<br>
 https://forum.pololu.com/t/how-to-keep-jumper-wires-tight/4565/2<br>
 Note that this tightening may need to be repeated each time a male connector is inserted and removed.<br>
 
