@@ -17,6 +17,7 @@ I tried different designs and found it frustrating if connection points were har
 3- Jumper cables are used and a breadboard is attached to allow for easy connections.<br>
 4- There's no on/off switch. Pop one of the batteries in and out to start and stop the robot.<br>
 5- The robot has two motors instead of four so the batteries last longer.<br>
+6- The batteries are placed directly above the wheels. The weight improves traction making it easier for the robot to move.
 
 ### Robotics Resources
 
