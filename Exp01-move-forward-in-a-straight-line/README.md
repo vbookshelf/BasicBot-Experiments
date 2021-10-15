@@ -4,12 +4,12 @@
 
 ### Objective
 
-Use PWM (Pulse Width Modulation) to vary the speed of each wheel so that the robot moves forward in a fairly straight line instead of drifting left or right
+Use PWM (Pulse Width Modulation) to vary the speed of each wheel so that the robot moves forward in a fairly straight line instead of drifting left or right.
 
 
 ### Summary
 
-The robot drifted to the left when moving forward. This could have been caused by:<br>
+The robot initially drifted to the left when moving forward. This could have been caused by:<br>
 
 1- The motors and gears are not identical and therefore turn at different speeds,<br>
 2- The movement of the castor wheel<br>
