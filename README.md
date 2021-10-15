@@ -10,6 +10,8 @@ Each experiment is stored in a separate folder. In the experiment folder you wil
 
 ### Key Features of Serenity-1
 
+I tried different designs and found that I it was frustrating if connection points were hard to access or hard to see. I also didn't want to spend too much mental energy trying to carefully arrange components on the base in order to fit everything. I also found that hiding the wires looked neater but it made swapping out components harder. I wanted the robot to be quick and easy to experiment with. This is the current setup:
+
 1- Large base area (297mm x 210mm x 3mm thick MDF) to allow enough space for sensors, a micro-controller, a single-board computer, a camera and other parts to be easily installed and moved around.<br>
 2- Hardware is not screwed down to allow for easy removal or re-positioning. The motors and castor wheel are attached with double sided tape. The electronics are attached to the base with Prestick.<br>
 3- Jumper cables are used and a breadboard is attached to allow for easy connections.<br>
