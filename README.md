@@ -15,7 +15,7 @@ I tried different designs and found it frustrating if connection points were har
 1- Large base area (297mm x 210mm x 3mm thick MDF) to allow enough space for sensors, a micro-controller, a single-board computer, a camera and other parts to be easily installed and moved around.<br>
 2- Hardware is not screwed down to allow for easy removal or re-positioning. The motors and castor wheel are attached with double sided tape. The electronics are attached to the base with Prestick.<br>
 3- Jumper cables are used and a breadboard is attached to allow for easy connections.<br>
-4- There's no on/off switch. I simply pop one of the batteries in and out to start and stop the robot.
+4- There's no on/off switch. I simply pop one of the batteries in and out to start and stop the robot.<br>
 5- The robot has two motors instead of four so the batteries last longer.<br>
 
 ### Robotics Resources
