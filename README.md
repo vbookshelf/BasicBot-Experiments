@@ -19,6 +19,15 @@ I tried different designs. It was frustrating when connection points were hard t
 5- The robot has two motors instead of four so the batteries last longer.<br>
 6- The batteries are placed directly above the wheels. The weight improves traction making it easier for the robot to move.
 
+This was a previous design:
+
+
+
+<br>
+<img src="https://github.com/vbookshelf/Serenity-Robotics-Experiments/blob/main/images/image2.jpg" width="400"></img>
+<i>BoxBot</i><br>
+<br>
+
 ### Robotics Resources
 
 Robotics and electronics may sound complicated but, believe me, it isnt hard to learn - if you have passionate teachers with a gift for making things easy to understand. This is a list of resources to help you. I highly recommend the Udemy Robotics course by Ian Juby. It's what helped me get started.<br>
