@@ -1,5 +1,5 @@
 ## Serenity - Robotics Experiments
-This repo contains my experiments with Serenity, a simple robot I built to experiment with robotics code and robotics hardware. I also plan to experiment with combining Ai and robotics.
+This repo contains my experiments with Serenity-1, a simple robot I built to experiment with robotics code and robotics hardware. I also plan to experiment with combining Ai and robotics.
 
 Each experiment is stored in a separate folder. In the experiment folder you will find the Arduino and/or Python code, a wiring diagram and other relevant files. Each folder also has a readme with a short writeup.
 
