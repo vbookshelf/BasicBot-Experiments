@@ -39,4 +39,9 @@ https://github.com/vbookshelf/Robotics-Resources-for-Beginners
 - Exp_01 - Move forward in a straight line<br>
 https://github.com/vbookshelf/Serenity7-Robotics-Experiments/tree/main/Exp01-move-forward-in-a-straight-line
 
+- Exp_02 - Basics of Robot Movement<br>
+https://github.com/vbookshelf/Serenity-Robotics-Experiments/tree/main/Exp_02-basics-of-robot-movement<br>
+
+<br>
+
 
