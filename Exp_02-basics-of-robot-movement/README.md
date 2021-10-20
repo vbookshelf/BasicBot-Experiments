@@ -14,6 +14,12 @@ Learn how to make the robot execute different movements.
 
 Please refer the the attached pdf file: Serenity-1-Movement-Basics.pdf
 
+### Lessons Learned
+
+- Increasing the voltage increases the motor speed.<br>
+
+- When movement sequences are hard coded, they are not executed exactly the same way each time. This is due to variations in the surface under the wheels, reduction in motor voltage over time and other factors. Instead of hard coding, some kind of feedback mechanism is needed to ensure that the robot always moves in a predictable way.
+
 <br>
 
 ## Reference Resources
