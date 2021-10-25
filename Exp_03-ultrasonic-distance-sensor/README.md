@@ -24,6 +24,9 @@ Learn how to use the HC-SR04 Ultrasonic Sensor for collision avoidance.
 
 ## Reference Resources
 
+Using the HC-SR04 Ultrasonic Distance Sensor with Arduino - Everything you need to know!<br>
+https://www.youtube.com/watch?v=6F1B_N6LuKw<br>
+
 
 
 <br>
