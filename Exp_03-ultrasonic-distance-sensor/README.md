@@ -28,5 +28,10 @@ Using the HC-SR04 Ultrasonic Distance Sensor with Arduino - Everything you need 
 https://www.youtube.com/watch?v=6F1B_N6LuKw<br>
 
 
+How HC-SR04 Ultrasonic Sensor Works & Interface It With Arduino<br>
+https://lastminuteengineers.com/arduino-sr04-ultrasonic-sensor-tutorial/
+
+
+
 
 <br>
