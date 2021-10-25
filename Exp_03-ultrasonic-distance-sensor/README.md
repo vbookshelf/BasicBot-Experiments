@@ -17,6 +17,7 @@ Learn how to use the HC-SR04 Ultrasonic Sensor for collision avoidance.
 
 
 ### Lessons Learned
+1- If the robot approaches a wall at a shallow angle (less than 45 degrees), the sound will not be reflected back to the sensor. Because of this the robot will collide with the wall.
 
 
 
