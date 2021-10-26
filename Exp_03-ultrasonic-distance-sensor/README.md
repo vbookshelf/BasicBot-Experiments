@@ -18,6 +18,10 @@ Learn how to use the HC-SR04 Ultrasonic Sensor for collision avoidance.
 
 - This Arduino sketch shows how to use your hand to push the robot back and pull it forward without touching it.
 
+<br>
+<img src="https://github.com/vbookshelf/Serenity-Robotics-Experiments/blob/main/images/exp03.gif" width="400"></img>
+<br>
+
 
 
 ### Lessons Learned
