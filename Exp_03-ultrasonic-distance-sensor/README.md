@@ -15,7 +15,7 @@ Learn how to use the HC-SR04 Ultrasonic Sensor for collision avoidance.
 - This Arduino sketch demonstrates basic obstacle avoidance. The robot moves forward. When it detects an obstacle it keeps turning left until no obstacle is detected. Then it moves forward.<br>
 https://github.com/vbookshelf/Serenity-Robotics-Experiments/tree/main/Exp_03-ultrasonic-distance-sensor/exp03-obstacle-avoidance-sketch
 
-- This Arduino sketch shows how to use your hand to push the robot back and pull it forward without touching it.<br>
+- This Arduino sketch shows how to push the robot back and pull it forward without touching it.<br>
 https://github.com/vbookshelf/Serenity-Robotics-Experiments/blob/main/Exp_03-ultrasonic-distance-sensor/exp03-no-touch-push-pull-sketch/exp03-no-touch-push-pull-sketch.ino
 
 <br>
