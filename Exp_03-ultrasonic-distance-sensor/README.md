@@ -1,4 +1,4 @@
-## Exp_03 - Ultrasonic Sensor
+## Exp_03 - Ultrasonic Distance Sensor
 
 (In Progress...)
 
