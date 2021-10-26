@@ -23,6 +23,8 @@ Learn how to use the HC-SR04 Ultrasonic Sensor for collision avoidance.
 ### Lessons Learned
 - If the robot approaches a wall at a shallow angle (less than 45 degrees), the sound will not be reflected back to the sensor. Because of this the robot will collide with the wall.
 
+- This sensor has many other applications. For example, it could be used as part of a touchless hand sanitizer dispenser. When the sensor detects the hand close to the bottle, a servo motor arm presses on the bottle to release the sanitizing fluid. 
+
 
 
 <br>
