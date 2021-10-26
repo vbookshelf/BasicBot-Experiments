@@ -42,6 +42,9 @@ https://github.com/vbookshelf/Serenity7-Robotics-Experiments/tree/main/Exp01-mov
 - Exp_02 - Basics of Robot Movement<br>
 https://github.com/vbookshelf/Serenity-Robotics-Experiments/tree/main/Exp_02-basics-of-robot-movement<br>
 
+- Exp_03 - Ultrasonic Distance Sensor<br>
+https://github.com/vbookshelf/Serenity-Robotics-Experiments/tree/main/Exp_03-ultrasonic-distance-sensor
+
 <br>
 
 
