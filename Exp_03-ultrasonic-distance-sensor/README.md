@@ -1,7 +1,5 @@
 ## Exp_03 - Ultrasonic Distance Sensor
 
-(In Progress...)
-
 <br>
 
 <br>
