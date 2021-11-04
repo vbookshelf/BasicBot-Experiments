@@ -20,6 +20,13 @@ The Raspberry Pi runs the Python code and acts as the compute module. The Arduin
 
 ### Lessons Learned
 
+- In terms of workflow, it's more efficient to do all coding and functional testing on a computer and then transfer the code to the Raspberry Pi.<br>
+- For the key-presses to be sent from the Raspberry Pi (or from the computer when testing) to the Arduino, the Pygame window must always have focus (i.e. it must be selected). If the robot is not working the most probable cause is that the Pygame window has lost focus.<br>
+- When using Pygame, the robot can't be controlled via SSH.<br>
+- Power to the Raspberry Pi must always be connected last. Try not to plug in cables when the raspberry Pi is ON.<br>
+- The Arduino IDE needs to be opened on the Raspberry Pi in order to check what port to use for the serial communication. Some tutorials say to use port "/dev/ttyAMA0" but that did not work fro me. The port that worked was "/dev/ttyUSB0". Sometimes I found that the Arduino changed this name to "/dev/ttyUSB1".<br>
+- Make sure the the Arduino serial monitor is closed or the serial communication between the Python code and the Arduino won't work.<br>
+
 
 
 <br>
@@ -33,6 +40,10 @@ https://www.explainingcomputers.com/pi_devastator_videos.html
 - ExplainingComputers<br>
 Raspberry Pi Zumo Robot<br>
 https://www.explainingcomputers.com/rasp_pi_robotics.html
+
+- Pi Spy<br>
+Install Arduino IDE on Raspberry Pi<br>
+https://www.youtube.com/watch?v=xWCwJXz4B4I
 
 - vbookshelf Repo<br>
 Raspberry Pi Resources for Beginners<br>
