@@ -1,7 +1,5 @@
 ## Exp_04 - Remote Control Using Raspberry Pi and Arduino
 
-In progress...
-
 <br>
 
 <br>
@@ -26,7 +24,7 @@ The Raspberry Pi runs the Python code and acts as the compute module. The Arduin
 - Power to the Raspberry Pi must always be connected last. Try not to plug in cables when the raspberry Pi is ON.<br>
 - The Arduino IDE needs to be opened on the Raspberry Pi in order to check what port to use for the serial communication. Some tutorials say to use port "/dev/ttyAMA0" but that did not work fro me. The port that worked was "/dev/ttyUSB0". Sometimes I found that the Arduino changed this name to "/dev/ttyUSB1".<br>
 - Make sure the the Arduino serial monitor is closed or the serial communication between the Python code and the Arduino won't work.<br>
-- In previous experiments the power for the Arduino was supplied from the 5V supply on the L298N motor driver to the 5V pin on the Arduino. However, when the Arduino is connected to a computer (or a Raspberry Pi) when updating a sketch there is a risk that the current can flow from the Arduino to the motors. This hight current draw could damage the Arduino (and the Raspberry Pi). To prevent this, in this experiment I've not made any connection to the 5V pin on the Arduino. Instead the Arduino is powered via the USB cable from the Raspberry Pi. The Raspberry Pi is powered by a rechargeable powerbank rated at 5V, 2.4A (2.5A is recommmended).
+- In previous experiments the power for the Arduino was supplied from the 5V supply on the L298N motor driver to the 5V pin on the Arduino. However, when the Arduino is connected to a computer (or a Raspberry Pi) there is a risk that the current can flow from the Arduino to the motors. This hight current draw could damage the Arduino (and the Raspberry Pi). To prevent this, in this experiment I've not made any connection to the 5V pin on the Arduino. Instead the Arduino is powered via the USB cable from the Raspberry Pi. The Raspberry Pi is powered by a rechargeable powerbank rated at 5V, 2.4A (2.5A is recommmended).
 
 
 
