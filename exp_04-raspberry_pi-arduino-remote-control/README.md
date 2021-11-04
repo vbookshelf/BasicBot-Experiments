@@ -26,6 +26,21 @@ The Raspberry Pi runs the Python code and acts as the compute module. The Arduin
 
 ## Reference Resources
 
+- ExplainingComputers<br>
+Raspberry Pi Devastator Robot<br>
+https://www.explainingcomputers.com/pi_devastator_videos.html
+
+- ExplainingComputers<br>
+Raspberry Pi Zumo Robot<br>
+https://www.explainingcomputers.com/rasp_pi_robotics.html
+
+- vbookshelf Repo<br>
+Raspberry Pi Resources for Beginners<br>
+https://github.com/vbookshelf/Raspberry-Pi-Resources-for-Beginners
+
+- vbookshelp Repo<br>
+Arduino Computer Vision Finger Counter<br>
+https://github.com/vbookshelf/Arduino-Computer-Vision-Finger-Counter
 
 
 <br>
