@@ -45,6 +45,9 @@ https://github.com/vbookshelf/Serenity-Robotics-Experiments/tree/main/Exp_02-bas
 - Exp_03 - Ultrasonic Distance Sensor<br>
 https://github.com/vbookshelf/Serenity-Robotics-Experiments/tree/main/Exp_03-ultrasonic-distance-sensor
 
+- Exp_04 - Remote Control Using Raspberry Pi and Arduino<br>
+https://github.com/vbookshelf/Serenity-Robotics-Experiments/tree/main/exp_04-raspberry_pi-arduino-remote-control
+
 <br>
 
 
