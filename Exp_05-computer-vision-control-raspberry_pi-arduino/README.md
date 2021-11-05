@@ -26,6 +26,18 @@ In progress....
 
 ## Reference Resources
 
+- Pi Spy<br>
+Install Arduino IDE on Raspberry Pi<br>
+https://www.raspberrypi-spy.co.uk/2020/12/install-arduino-ide-on-raspberry-pi/
+
+- SPARKLERS : We Are The Makers<br>
+Easiest way to install OpenCV for python in Raspberry pi within few minutes<br>
+https://www.youtube.com/watch?v=xlmJsTeZL3w
+
+- How to install Mediapipe on Raspberry Pi 3 and 4<br>
+mediapipe-rpi4 0.8.8<br>
+https://pypi.org/project/mediapipe-rpi4/
+
 
 
 <br>
