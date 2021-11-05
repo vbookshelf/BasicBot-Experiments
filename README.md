@@ -48,7 +48,7 @@ https://github.com/vbookshelf/Serenity-Robotics-Experiments/tree/main/Exp_03-ult
 - Exp_04 - Remote Control Using Raspberry Pi and Arduino<br>
 https://github.com/vbookshelf/Serenity-Robotics-Experiments/tree/main/exp_04-raspberry_pi-arduino-remote-control
 
-- Exp_05 - Computer Vision with Raspberry Pi 3A+ and Arduino<br>
+- Exp_05 - Robot Computer Vision with Raspberry Pi 3A+ and Arduino<br>
 https://github.com/vbookshelf/Serenity-Robotics-Experiments/tree/main/Exp_05-computer-vision-control-raspberry_pi-arduino
 
 <br>
