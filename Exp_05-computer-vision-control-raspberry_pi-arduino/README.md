@@ -38,6 +38,12 @@ https://www.youtube.com/watch?v=xlmJsTeZL3w
 mediapipe-rpi4 0.8.8<br>
 https://pypi.org/project/mediapipe-rpi4/
 
+- pantechsolutions<br>
+Camera interface with RPi - USB | Mobile Camera<br>
+(Explains how to connect a cellphone camera to a computer (or Raspberry Pi) via wifi.<br>
+This is helpful if you don't have a USB webcam or a Raspberry Pi camera.)<br>
+https://www.youtube.com/watch?v=lXeiicHhtNs
+
 
 
 <br>
