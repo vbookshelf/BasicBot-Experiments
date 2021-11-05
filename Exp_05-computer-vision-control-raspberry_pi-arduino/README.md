@@ -1,6 +1,4 @@
-## Exp_05 - Computer Vision with Raspberry Pi 3A+ and Arduino
-
-In progress....
+## Exp_05 - Robot Computer Vision with Raspberry Pi 3A+ and Arduino
 
 <br>
 
