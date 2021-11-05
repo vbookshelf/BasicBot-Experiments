@@ -48,6 +48,14 @@ Camera interface with RPi - USB | Mobile Camera<br>
 This is helpful if you don't have a USB webcam or a Raspberry Pi camera.)<br>
 https://www.youtube.com/watch?v=lXeiicHhtNs
 
+- vbookshelf Repo<br>
+Raspberry Pi Resources for Beginners<br>
+https://github.com/vbookshelf/Raspberry-Pi-Resources-for-Beginners
+
+- vbookshelp Repo<br>
+Arduino Computer Vision Finger Counter<br>
+https://github.com/vbookshelf/Arduino-Computer-Vision-Finger-Counter
+
 
 
 <br>
