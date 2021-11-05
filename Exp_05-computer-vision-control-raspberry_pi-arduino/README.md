@@ -30,7 +30,7 @@ Mediapipe models can be run on a CPU. This fact allows us to use these models on
 - There are two ways to install OpenCV on the Raspberry Pi. One takes hours and the other can be completed in a few minutes. I used the quick method.
 - The Raspberry Pi is often slow when packages are being installed. Don't be in a rush to reboot it if you think that nothing is happening - be patient.
 - Connect the Raspberry Pi to mains power before installing packages.
-- If you don't display the ouput video (e.g. cv2.imshow(my_image, image)) then the inference code will run faster on the Raspberry Pi.
+- If you don't display the ouput video (e.g. cv2.imshow(my_video, image)) then the inference code will run faster on the Raspberry Pi.
 
 
 
