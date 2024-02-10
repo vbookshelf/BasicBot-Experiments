@@ -32,6 +32,9 @@ This was a previous design:
 Robotics and electronics may sound complicated but, believe me, it isn't hard to learn - if you have passionate teachers with a gift for making things easy to understand. This is a list of resources to help you. I highly recommend the Udemy Robotics course by Ian Juby. It's what helped me get started.<br>
 https://github.com/vbookshelf/Robotics-Resources-for-Beginners
 
+Here's a list of Raspberry Pi resources to help you get started:<br>
+https://github.com/vbookshelf/Raspberry-Pi-Resources-for-Beginners
+
 <br>
 
 ## Experiments
